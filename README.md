@@ -1,2 +1,19 @@
 # history-quiz-java
-This is my first terminal game, so i´m starting at this new game development hobby but i´m starting from terminal, but one day i will achieve mobie game development
+History Quiz Game
+
+A simple terminal quiz game written in Java
+
+Features
+5 questions
+score system
+lives system
+
+How to Run:
+
+Compile:
+javac Quiz.java
+
+Run
+java Main
+
+
